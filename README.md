@@ -1,1 +1,6 @@
-# Animal-App-IOS
+# Animal-App-IOS![Screenshot 2024-04-09 at 10 22 08 AM](https://github.com/bdabhi629/Animal-App-IOS/assets/152370426/64ab3f9e-c3cc-4daa-8627-3c208c05f96b)
+![Screenshot 2024-04-09 at 10 21 56 AM](https://github.com/bdabhi629/Animal-App-IOS/assets/152370426/a3d7e9fb-d3bb-4ae7-8fce-3b9718553c21)
+![Screenshot 2024-04-09 at 10 21 50 AM](https://github.com/bdabhi629/Animal-App-IOS/assets/152370426/70c504b0-d513-4d25-abdd-7780a960ab66)
+![Screenshot 2024-04-09 at 10 21 43 AM](https://github.com/bdabhi629/Animal-App-IOS/assets/152370426/027393d0-0c22-41b3-8d82-fd2e398bc905)
+![Screenshot 2024-04-09 at 10 21 32 AM](https://github.com/bdabhi629/Animal-App-IOS/assets/152370426/7129602e-d02c-4aab-8114-6bc6c70a651a)
+![Screenshot 2024-04-09 at 10 21 22 AM](https://github.com/bdabhi629/Animal-App-IOS/assets/152370426/1a268f1d-e769-4e80-a429-af4dda2b1f8b)
